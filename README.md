@@ -24,7 +24,6 @@ sleep()
 sound()
 → Indicates that dinosaurs made a variety of sounds.
 
-
 ### Tech stack 
 
 - **Language**: Python 3
