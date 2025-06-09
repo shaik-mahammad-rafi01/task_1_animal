@@ -1,14 +1,29 @@
+
 ## Animal Traits
 
 ### 📄 Description:
 This PR introduces additional behavioral and physical traits specific to dinosaurs within the dinosaur class. The methods are aimed at simulating the lifestyle and biological characteristics of dinosaurs for educational or illustrative purposes.
 
 ### Features 
+
 Height()
 → Prints the hieght of dinosaur.
 
 Weight()
 → Prints the weight of dinosaur.
+
+live()
+→ Prints how long ago dinosaurs lived.
+
+eat()
+→ Describes the dietary habits (carnivores and herbivores).
+
+sleep()
+→ Describes sleeping patterns of dinosaurs.
+
+sound()
+→ Indicates that dinosaurs made a variety of sounds.
+
 
 ### Tech stack 
 
@@ -52,4 +67,6 @@ python3 --version
 
 ## Author
 Shaik Mahammad Rafi  
+
 📧 [rafi.shaik@everest.engineering](mailto:rafi.shaik@everest.engineering)
+
